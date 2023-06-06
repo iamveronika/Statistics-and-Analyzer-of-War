@@ -1,5 +1,4 @@
-This is the dataset that describes Equipment Losses & Death Toll & Military in 2022-2023 Ukraine russia War. Also in this project are analyzinf keywords and social networks.
-All data are official and additionally structured by myself.
+This is the dataset that describes Equipment Losses & Death Toll & Military in 2022-2023 Ukraine russia War. Also in this project are analyzing Keywords and Social media.
 
 Few screenshots:
 
